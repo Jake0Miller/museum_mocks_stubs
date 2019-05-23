@@ -33,5 +33,4 @@ class Museum
       exhibit.cost
     end/@exhibits.length
   end
-
 end
